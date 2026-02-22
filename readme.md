@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 
 Open the jupyter notebook "production_etl.ipynb"
-Select the kernel of the jupyter notebook to be .hdbtechnicaltest
+Select the kernel of the jupyter notebook to be .venv
 
 #### Expected Output
 
