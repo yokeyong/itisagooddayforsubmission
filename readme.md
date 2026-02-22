@@ -1,4 +1,4 @@
-## HDB Technical Test Documentation
+## Documentation
 ## Name: Wong Yoke Yong
 
 #### Introduction
