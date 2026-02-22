@@ -1,5 +1,4 @@
 ## Documentation
-## Name: Wong Yoke Yong
 
 #### Introduction
 
