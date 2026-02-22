@@ -16,8 +16,8 @@ Visual Studio Code
 Execute in the terminal to prepare the following environments.
 
 ```
-python -m venv .hdbtechnicaltest
-source .hdbtechnicaltest/bin/activate
+python -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
